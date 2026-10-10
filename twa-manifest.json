@@ -1,0 +1,51 @@
+{
+  "packageId": "com.campelo.meutizercalc",
+  "host": "meutizercalc.vercel.app",
+  "name": "MeuTirze Calc",
+  "launcherName": "MeuTirze",
+  "display": "standalone",
+  "themeColor": "#F7FBF7",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#F7FBF7",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://meutizercalc.vercel.app/icon.svg",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://meutizercalc.vercel.app/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://meutizercalc.vercel.app/",
+  "minSdkVersion": 21,
+  "orientation": "portrait",
+  "fingerprints": [
+    {
+      "name": "upload-key",
+      "value": "D9:C3:E5:01:21:13:69:C2:BF:33:EE:60:12:A4:D1:89:52:4C:BB:0C:37:3C:15:0D:B7:D4:C7:A3:42:47:E2:73"
+    }
+  ],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "",
+  "displayOverride": [],
+  "appVersion": "1"
+}

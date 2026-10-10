@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.campelo.meutizercalc",
+        "sha256_cert_fingerprints": ["D9:C3:E5:01:21:13:69:C2:BF:33:EE:60:12:A4:D1:89:52:4C:BB:0C:37:3C:15:0D:B7:D4:C7:A3:42:47:E2:73"]
+      }
+    }]
